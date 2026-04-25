@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m Jarrar!<br><br>A passionate MERN Stack Developer with a BS in Computer Science, driven by a love for building scalable, high-performance web applications. I enjoy turning ideas into real-world software solutions that are efficient, user-friendly, and impactful.<br><br>I’m constantly learning and exploring—whether it’s a new programming language, advanced development concepts, database design, or modern deployment strategies. Growth and curiosity fuel everything I do.<br><br>🚀 Always building. Always improving.<br>
+👋 Hi, I’m Jarrar! 🚀
+I’m a MERN Stack enthusiast with a BS degree in Computer Science. I developed my Final Year Project as a MERN Stack Developer for ZAPTA Technologies. I’ve also worked as a Software Engineering Intern at Devsloop Technologies (Ruby on Rails). Currently, I’m working as a Software Engineering Intern at Tkxel, focusing on PERN stack development 🚀<br>
 
 
 ## 🌐 Socials:
